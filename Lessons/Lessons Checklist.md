@@ -9,4 +9,3 @@
 - [ ] [[Lesson 6 - Whiff Punish & Counter Poke]]
 - [ ] [[Lesson 7 - Advanced Knockdown]]
 - [ ] [[Lesson 9 -]]
-test
