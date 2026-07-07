@@ -4,5 +4,7 @@
   "obsidian-git",
   "obsidian-linter",
   "combo-colors",
-  "callout-manager"
+  "callout-manager",
+  "custom-note-width",
+  "cmdr"
 ]

@@ -12,7 +12,9 @@
   "macros": [],
   "explorer": [],
   "hide": {
-    "statusbar": [],
+    "statusbar": [
+      "word-count"
+    ],
     "leftRibbon": []
   },
   "spacing": 8,
