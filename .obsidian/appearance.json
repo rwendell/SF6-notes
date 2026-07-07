@@ -1,0 +1,11 @@
+{
+  "cssTheme": "Rose Pine Minimal",
+  "accentColor": "#31748f",
+  "theme": "system",
+  "showViewHeader": false,
+  "showRibbon": true,
+  "monospaceFontFamily": "MonoLisa Nerd Font",
+  "enabledCssSnippets": [
+    "combo-colors-theme"
+  ]
+}

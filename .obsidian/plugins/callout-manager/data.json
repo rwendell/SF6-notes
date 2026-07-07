@@ -1,0 +1,21 @@
+{
+  "callouts": {
+    "custom": [
+      "combo"
+    ],
+    "settings": {
+      "combo": [
+        {
+          "changes": {
+            "icon": "lucide-hand-fist"
+          }
+        }
+      ]
+    }
+  },
+  "calloutDetection": {
+    "obsidian": true,
+    "theme": true,
+    "snippet": true
+  }
+}

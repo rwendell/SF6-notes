@@ -1,0 +1,110 @@
+{
+  "selectedProfile": "trd",
+  "profiles": {
+    "asw": {
+      "name": "ASW Standard",
+      "desc": {
+        "A": "Weak attack, weak punch",
+        "B": "Strong attack, weak kick",
+        "C": "Heavy attack, strong punch, clash",
+        "D": "Strong kick, drive, dust, homing dash, change",
+        "E": "Arcana, extra attack",
+        "K": "Kick",
+        "P": "Punch, partner",
+        "S": "Slash, special",
+        "HS": "Heavy slash",
+        "MS": "MP skill",
+        "OD": "Overdrive",
+        "RC": "Rapid cancel, roman cancel",
+        "DRC": "Drift roman cancel",
+        "YRC": "Yellow roman cancel",
+        "BRC": "Blue roman cancel",
+        "PRC": "Purple roman cancel"
+      },
+      "colors": {
+        "A": "#DE1616",
+        "B": "#1F8CCC",
+        "C": "#009E4E",
+        "D": "#E8982C",
+        "E": "#892CE8",
+        "K": "#1F8CCC",
+        "P": "#FF87D1",
+        "S": "#009E4E",
+        "HS": "#DE1616",
+        "MS": "#E8982C",
+        "OD": "#892CE8",
+        "RC": "#DE1616",
+        "DRC": "#DE1616",
+        "BRC": "#1F8CCC",
+        "YRC": "#E8982C",
+        "PRC": "#892CE8"
+      }
+    },
+    "alt": {
+      "name": "Modern Alt",
+      "desc": {
+        "A": "A button",
+        "B": "B button",
+        "X": "X button",
+        "Y": "Y button",
+        "L": "Light attack",
+        "M": "Medium attack",
+        "H": "Heavy attack",
+        "S": "Special attack",
+        "U": "Unique attack",
+        "A1": "Assist 1",
+        "A2": "Assist 2"
+      },
+      "colors": {
+        "A": "#009E4E",
+        "B": "#DE1616",
+        "X": "#1F8CCC",
+        "Y": "#E8982C",
+        "L": "#1F8CCC",
+        "M": "#E8982C",
+        "H": "#DE1616",
+        "S": "#009E4E",
+        "U": "#FF87D1",
+        "A1": "#892CE8",
+        "A2": "#892CE8"
+      }
+    },
+    "trd": {
+      "name": "Traditional",
+      "desc": {
+        "P": "Any punch",
+        "K": "Any kick",
+        "LP": "Light punch",
+        "MP": "Medium punch",
+        "HP": "Heavy punch",
+        "LK": "Light kick",
+        "MK": "Medium kick",
+        "HK": "Heavy kick",
+        "DI": "Drive impact",
+        "DR": "Drive rush",
+        "VT": "V-trigger",
+        "FA": "Focus attack",
+        "PP": "Perfect parry"
+      },
+      "colors": {
+        "P": "#31748f",
+        "K": "#c4a7e7",
+        "LP": "#31748f",
+        "MP": "#f6c177",
+        "HP": "#eb6f92",
+        "LK": "#31748f",
+        "MK": "#f6c177",
+        "HK": "#eb6f92",
+        "DI": "#3ddc84",
+        "DR": "#3ddc84",
+        "VT": "#eb6f92",
+        "FA": "#f6c177",
+        "PP": "#31748f"
+      },
+      "textColor": "#FFFFFF"
+    }
+  },
+  "iconSize": "medium",
+  "naturalLanguageNotation": false,
+  "notationColorSettingsExpanded": true
+}

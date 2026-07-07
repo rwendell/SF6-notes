@@ -1,0 +1,12 @@
+{
+  "alwaysUpdateLinks": true,
+  "showLineNumber": false,
+  "spellcheck": false,
+  "vimMode": true,
+  "openBehavior": "file:Lessons/Lessons Checklist",
+  "newFileLocation": "current",
+  "showInlineTitle": false,
+  "readableLineLength": true,
+  "showUnsupportedFiles": true,
+  "propertiesInDocument": "hidden"
+}
