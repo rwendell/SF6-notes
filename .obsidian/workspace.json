@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "6712a51a37f87da3",
@@ -94,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cammy Day 1.md",
+                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +105,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Cammy Day 1"
+              "title": "Backlinks for Lesson 3 - Drive Rush & DR Combos"
             }
           },
           {
@@ -156,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Combos.md",
+                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Combos"
+              "title": "Outline of Lesson 3 - Drive Rush & DR Combos"
             }
           },
           {
@@ -171,10 +172,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Combos.md"
+                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Combos"
+              "title": "File properties for Lesson 3 - Drive Rush & DR Combos"
             }
           },
           {
@@ -187,12 +188,11 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 420.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -211,9 +211,6 @@
   },
   "active": "1c309130df8b8d99",
   "lastOpenFiles": [
-    "Lessons/Lesson 3 - Drive Rush & DR Combos.docx",
-    "Lessons/Lessons Checklist.md",
-    "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
     "Index.md",
     "Lessons/Lesson 1 - Basics.md",
     "Lessons/Lesson 2 - Simple Gameplan.md",
@@ -223,6 +220,9 @@
     "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
     "Lessons/Lesson 7 - Advanced Knockdown.md",
     "Combos.md",
+    "Lessons/Lessons Checklist.md",
+    "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+    "Lessons/Lesson 3 - Drive Rush & DR Combos.docx",
     "Lessons/Lessons Checklist.html",
     "Lessons Checklist.pdf",
     "combos/2LK - Low Confirm.md",

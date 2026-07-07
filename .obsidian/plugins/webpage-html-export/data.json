@@ -11,14 +11,16 @@
     "displayProgress": true,
     "inlineHTML": false,
     "exportPath": "C:\\Users\\Ryan\\Documents\\obsidian-vaults\\exports",
-    "filesToExport": [],
+    "filesToExport": [
+      "all"
+    ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
     "addMathjaxStyles": true,
     "addHeadTag": true,
     "backlinkOptions": {
       "featureId": "backlinks",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -30,7 +32,7 @@
     },
     "tagOptions": {
       "featureId": "tags",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -44,7 +46,7 @@
     },
     "aliasOptions": {
       "featureId": "aliases",
-      "enabled": true,
+      "enabled": false,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -178,7 +180,7 @@
       "hideSettingsButton": false,
       "allowFoldingLists": true,
       "allowFoldingHeadings": true,
-      "documentWidth": "40em"
+      "documentWidth": "90em"
     },
     "rssOptions": {
       "featureId": "rss",
@@ -205,8 +207,8 @@
     "inlineFonts": true,
     "inlineOther": true,
     "combineAsSingleFile": true,
-    "offlineResources": false,
-    "themeName": "",
+    "offlineResources": true,
+    "themeName": "obsidian-current-theme",
     "slugifyPaths": true,
     "flattenExportPaths": false,
     "fixLinks": true,
@@ -214,8 +216,14 @@
     "siteName": "SF6-notes",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [],
-    "includeStyleCssIds": [],
+    "includePluginCss": [
+      "dynamic-colors",
+      "combo-colors"
+    ],
+    "includeStyleCssIds": [
+      "dynamic-colors",
+      "combo-colors"
+    ],
     "autoDisposeWebpages": true
   },
   "logLevel": "warning",

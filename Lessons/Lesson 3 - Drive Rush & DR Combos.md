@@ -9,6 +9,6 @@ Perform a quick rush forward from a Drive Parry or a cancelable normal attack. D
 ## Simple Drive Rush Combo
 
 > [!Combo]
-> =:2MP/2MK > DR 5HP > 4MP > 4HK > j.MP > j.214K:=
+> =:2MP/2MK > DR 5HP > 4MP > 4HK > j.MP > j.214K:= 
 
-![video](https://www.youtube.com/watch?v=pnuG1CPkIi0&t=146s)
+![](https://www.youtube.com/watch?v=pnuG1CPkIi0&t=146s)
