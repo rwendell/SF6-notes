@@ -6,5 +6,7 @@
   "combo-colors",
   "callout-manager",
   "custom-note-width",
-  "cmdr"
+  "cmdr",
+  "webpage-html-export",
+  "obsidian-pandoc"
 ]

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Lessons Checklist.md",
+                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lessons Checklist"
+              "title": "Lesson 3 - Drive Rush & DR Combos"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6712a51a37f87da3",
@@ -193,7 +192,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,22 +205,25 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "callout-manager:Insert Callout": false
+      "callout-manager:Insert Callout": false,
+      "webpage-html-export:Export as HTML": false
     }
   },
   "active": "1c309130df8b8d99",
   "lastOpenFiles": [
-    "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
-    "Combos.md",
     "Lessons/Lessons Checklist.md",
-    "Lessons/Lesson 2 - Simple Gameplan.md",
-    "Lessons/Lesson 1 - Basics.md",
+    "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
     "Index.md",
-    "Lessons/Lesson 5 - Combos into Super.md",
-    "Lessons/Lesson 4 - Corner Combos.md",
+    "Lessons/Lesson 1 - Basics.md",
+    "Lessons/Lesson 2 - Simple Gameplan.md",
     "Lessons/Lesson 3.5 - More Drive System Mechanics.md",
+    "Lessons/Lesson 4 - Corner Combos.md",
+    "Lessons/Lesson 5 - Combos into Super.md",
     "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
     "Lessons/Lesson 7 - Advanced Knockdown.md",
+    "Combos.md",
+    "Lessons/Lessons Checklist.html",
+    "Lessons Checklist.pdf",
     "combos/2LK - Low Confirm.md",
     "combos/j.HP - Meter Dump.md",
     "combos/j.214K - DR Side Switch.md",
@@ -240,7 +243,6 @@
     "view-source_https___wiki.supercombo.gg_w_Street_Fighter_6_Cammy_Combos.html",
     "Combos Off Every Hit.md",
     "todo.md",
-    "Combos Off Every Hit a.md",
     "Lessons"
   ]
 }
