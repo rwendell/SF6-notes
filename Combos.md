@@ -1,6 +1,6 @@
 ---
 cc_profile: trd
-custom-width: 40
+custom-width: 90
 ---
 
 # Combos

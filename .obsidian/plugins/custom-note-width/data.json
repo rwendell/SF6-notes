@@ -1,6 +1,6 @@
 {
   "language": "auto",
-  "defaultWidth": 40,
+  "defaultWidth": 90,
   "defaultWidthUnit": "%",
   "sliderWidth": 85,
   "yamlKey": "custom-width",

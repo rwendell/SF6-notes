@@ -23,4 +23,4 @@ Good against invincible DP
 
 ## Advanced: Safe Jump
 
-A very well-timed jump attack on a character who is rising from a knockdown. Your goal is to attack extremely close to when you land so that, if the character performs an invincible reversal attack, you will land and be able to block. Will be discussed more in [[Lesson 7 - Advanced Knockdown]].
+A very well-timed jump attack on a character who is rising from a knockdown. Your goal is to attack extremely close to when you land so that, if the character performs an invincible reversal attack, you will land and be able to block. Will be discussed more in [[Lesson 6 - Advanced Knockdown]].

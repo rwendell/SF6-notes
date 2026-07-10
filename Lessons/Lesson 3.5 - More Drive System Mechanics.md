@@ -1,3 +1,7 @@
+---
+cc_profile: trd
+---
+
 # Drive Impact
 
 A powerful strike that can absorb an opponent’s incoming attack. Perform this on an opponent backed into the corner to induce a wall splat, even if they block the attack.
