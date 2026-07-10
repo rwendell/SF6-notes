@@ -20,4 +20,4 @@ Perform a counterattack while blocking an opponent’s attack. The damage is low
 
 ## Input
 
-Press ![](https://wiki.supercombo.gg/images/thumb/3/3d/F.png/22px-F.png)+![](https://wiki.supercombo.gg/images/thumb/8/88/SF6_HP.png/22px-SF6_HP.png)+![](https://wiki.supercombo.gg/images/thumb/8/8f/SF6_HK.png/22px-SF6_HK.png) (6HPHK) during blockstun to perform
+Press ![22](https://wiki.supercombo.gg/images/thumb/3/3d/F.png/22px-F.png)+![](https://wiki.supercombo.gg/images/thumb/8/88/SF6_HP.png/22px-SF6_HP.png)+![](https://wiki.supercombo.gg/images/thumb/8/8f/SF6_HK.png/22px-SF6_HK.png) (6HPHK) during blockstun to perform

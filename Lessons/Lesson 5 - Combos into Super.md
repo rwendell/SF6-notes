@@ -17,7 +17,10 @@ Some already mentioned combos in [[Lesson 4 - Corner Combos#In the corner (Side 
 
 # Level 2
 
-- Don't really use level 2
+Don't really use level 2, but you can always take the 2MP/2MK BnB combo and stop early  to get:
+
+> [!combo]
+> =: 2MP/2MK > DR 5HP > 4MP~HK > 214214P:=
 
 # Level 3
 

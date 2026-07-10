@@ -5,11 +5,12 @@ custom-width: 40
 
 # Combos
 
-## Quick Reference
+## Current Combos
 
-| Situation     | Route                       | Notes |
-| ------------- | --------------------------- | ----- |
-| Light confirm | =:5LP > 2LK > 5LP > 236MK:= | #BnB  |
+| Situation        | Route                                            |
+| ---------------- | ------------------------------------------------ |
+| #BnB             | =:(5LP >) 2LK > 5LP > 236MK:=                    |
+| =:2MP/2MK:= Poke | =:2MP/2MK > DR 5HP > 4MP > 4HK > j.MP > j.214K:= |
 
 ---
 
@@ -26,7 +27,7 @@ custom-width: 40
 | ----------- | --------------------------------------------------- | :----: | -------------------------------------------------------------------------------------------- |
 | =:2MP/2MK:= | =:2MP/2MK > DR 4HK > [6]> 4HK > 236[HK] > 236236K:= |        | #Side-Switch                                                                                 |
 | =:2MP/2MK:= | =:2MP > 236HK:=                                     |        |                                                                                              |
-| =:2MP/2MK:= | =:2MP/2MK > DR 5HP > 4MP > 4HK > j.MP > j.214K:=    |        | Air juggle ender                                                                             |
+| =:2MP/2MK:= | =:2MP/2MK > DR 5HP > 4MP > 4HK > j.MP > j.214K:=    |        | Medium #BnB                                                                                  |
 | =:2MP/2MK:= | =:2MP/2MK > DR 2HP > 4HK > 214LP > 236236K:=        |        | Meter dump into #level-1                                                                     |
 | =:5MP:=     | =: CH 5MP > 5HP~HK > 236MK:=                        |        | #BnB , #shimmy, #midscreen, #Counter-Hit                                                     |
 | =: 5MP:=    | =: (whiff LP) > CH 5MP > 5HP~HK > 236LK > 623MK:=   |   ✖️   | Corner #loop; whiffed LP sets up frames; must come off a #Counter-Hit 5MP, #shimmy , #corner |

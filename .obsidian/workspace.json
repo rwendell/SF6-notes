@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+                "file": "Current Gameplan.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lesson 3 - Drive Rush & DR Combos"
+              "title": "Current Gameplan"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "[\"cc_profile\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "6712a51a37f87da3",
@@ -95,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+                "file": "Current Gameplan.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -105,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lesson 3 - Drive Rush & DR Combos"
+              "title": "Backlinks for Current Gameplan"
             }
           },
           {
@@ -157,13 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+                "file": "Current Gameplan.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lesson 3 - Drive Rush & DR Combos"
+              "title": "Outline of Current Gameplan"
             }
           },
           {
@@ -172,10 +171,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Lessons/Lesson 3 - Drive Rush & DR Combos.md"
+                "file": "Current Gameplan.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Lesson 3 - Drive Rush & DR Combos"
+              "title": "File properties for Current Gameplan"
             }
           },
           {
@@ -188,7 +187,8 @@
               "title": "Source Control"
             }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -211,17 +211,18 @@
   },
   "active": "1c309130df8b8d99",
   "lastOpenFiles": [
-    "Index.md",
-    "Lessons/Lesson 1 - Basics.md",
-    "Lessons/Lesson 2 - Simple Gameplan.md",
-    "Lessons/Lesson 3.5 - More Drive System Mechanics.md",
-    "Lessons/Lesson 4 - Corner Combos.md",
-    "Lessons/Lesson 5 - Combos into Super.md",
-    "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
-    "Lessons/Lesson 7 - Advanced Knockdown.md",
+    "Reference.md",
+    "Current Gameplan.md",
     "Combos.md",
     "Lessons/Lessons Checklist.md",
+    "Lessons/Lesson 7 - Advanced Knockdown.md",
+    "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
+    "Lessons/Lesson 5 - Combos into Super.md",
+    "Lessons/Lesson 4 - Corner Combos.md",
+    "Lessons/Lesson 3.5 - More Drive System Mechanics.md",
     "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+    "Lessons/Lesson 1 - Basics.md",
+    "Lessons/Lesson 2 - Simple Gameplan.md",
     "Lessons/Lesson 3 - Drive Rush & DR Combos.docx",
     "Lessons/Lessons Checklist.html",
     "Lessons Checklist.pdf",
