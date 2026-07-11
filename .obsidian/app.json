@@ -6,7 +6,7 @@
   "openBehavior": "file:Lessons/Lessons Checklist",
   "newFileLocation": "current",
   "showInlineTitle": false,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "showUnsupportedFiles": true,
   "propertiesInDocument": "hidden",
   "pdfExportSettings": {
