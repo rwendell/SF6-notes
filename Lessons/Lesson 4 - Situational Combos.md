@@ -1,23 +1,18 @@
 ---
 cc_profile: trd
-custom-width: 90
 ---
 
 # Lesson 4 - Situational Combos
+
+## Anti-Air Combos
+
+> [!combo]
 
 ## Jump In Combos
 
 ## Combos into Super
 
 ### Level 1
-
-Some already mentioned combos in [[Lesson 4 - Corner Combos#In the corner (Side switch)|Side Switch Combos]]:
-
-> [!Combo]
-> =:2MP/2MK > DR 4HK > [6]> 4HK > 236[HK] > 236236K:= 
-
-> [!Combo]
-> =:j.214K > 4MP > 4HK > DR 4MP > 236[HK] > 236236K:= 
 
 > [!Combo]
 > =:2MP/2MK > DR 2HP > 4HK > 214LP > 236236K:=

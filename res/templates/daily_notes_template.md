@@ -1,4 +1,9 @@
 ---
 cc_profile: trd
 ---
-# daily\_notes\_template
+
+# Practice Notes
+
+## Takeaways
+
+## What to Work on

@@ -1,0 +1,107 @@
+{
+  "enableOnMobile": false,
+  "enableTextObjects": true,
+  "enableNavigation": true,
+  "enableWorkspaceNav": true,
+  "workspaceNavViewTypes": "",
+  "picker": true,
+  "pickerLeaderMappings": true,
+  "pickerMatcherEngine": "ufuzzy",
+  "configMode": "lua-vimrc",
+  "enableStatusBar": true,
+  "enableChordDisplay": true,
+  "enablePowerline": false,
+  "modePrompts": {
+    "normal": "NORMAL",
+    "insert": "INSERT",
+    "visual": "VISUAL",
+    "replace": "REPLACE",
+    "visualLine": "V-LINE",
+    "visualBlock": "V-BLOCK",
+    "select": "SELECT",
+    "vreplace": "V-REPLACE",
+    "command": "COMMAND",
+    "search": "SEARCH",
+    "insertNormal": "NORMAL"
+  },
+  "enableEasyMotion": true,
+  "easyMotionDimming": true,
+  "enableHardWrap": true,
+  "listContinuationOnOpen": true,
+  "enableTableNav": true,
+  "tableWidgetMode": "cursor",
+  "yankHighlightMode": "solid",
+  "yankHighlightDuration": 200,
+  "enableMarkGutter": true,
+  "enableHarpoon": true,
+  "enableHintMode": true,
+  "hintModeLabels": "asdfghjkl",
+  "hintModeHotkey": "",
+  "scrolloffLines": 5,
+  "multilineScanLimit": 20,
+  "easyMotionLabels": "asdghklqwertyuiopzxcvbnmfj",
+  "labelFontSize": 14,
+  "cursorShapes": {
+    "normal": "block",
+    "insert": "bar",
+    "visual": "block",
+    "replace": "underline",
+    "operatorPending": "underline"
+  },
+  "clipboard": "unnamed",
+  "tabstop": 4,
+  "shiftwidth": 4,
+  "expandtab": true,
+  "insertmodeescape": "",
+  "insertmodeescapetimeout": 1000,
+  "textwidth": 80,
+  "whichKeyMode": "all",
+  "whichKeyGrouping": "grouped",
+  "whichKeyDelay": 500,
+  "whichKeySortOrder": "which-key",
+  "whichKeyIcons": true,
+  "whichKeyGroupLabels": [],
+  "whichKeyCommandLabels": [],
+  "vimrcPath": "",
+  "luaConfigPath": "",
+  "showConfigNotifications": true,
+  "leaderBindings": [],
+  "oilExplorer": true,
+  "oilShowHiddenFiles": false,
+  "oilConfirmDeleteThreshold": 1,
+  "oilDefaultSort": "name",
+  "pickerKeymap": {
+    "moveDown": [
+      "ArrowDown",
+      "C-n",
+      "C-j"
+    ],
+    "moveUp": [
+      "ArrowUp",
+      "C-p",
+      "C-k"
+    ],
+    "confirm": [
+      "Enter"
+    ],
+    "splitH": [
+      "C-x"
+    ],
+    "splitV": [
+      "C-v"
+    ],
+    "openTab": [
+      "C-t"
+    ],
+    "scrollDown": [
+      "C-d"
+    ],
+    "scrollUp": [
+      "C-u"
+    ],
+    "close": [
+      "Escape",
+      "C-c"
+    ]
+  }
+}

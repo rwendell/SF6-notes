@@ -1,5 +1,5 @@
 {
   "template": "res/templates/daily_notes_template",
-  "format": "YYYY/MMM/Do dddd",
+  "format": "YYYY/MMMM/Do dddd",
   "folder": "Practice Notes"
 }
