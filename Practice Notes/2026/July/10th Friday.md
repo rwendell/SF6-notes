@@ -14,7 +14,7 @@ cc_profile: trd
 - Getting DI cheesed
 - Oki isn't 100% safe
 
-## What to Work on
+## Action Items
 
 - Get DR combo into muscle memory & spam the combo in ranked
 - DI reactions
