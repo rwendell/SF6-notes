@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Practice Notes/2026/July/11th Saturday.md",
+                "file": "Characters/Chun-Li/Gameplan.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "11th Saturday"
+              "title": "Gameplan"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "okizeme",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -75,7 +75,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,44 +188,43 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "d848457313a3001b",
+  "active": "7220222b14c95ac2",
   "lastOpenFiles": [
-    "res/templates/daily_notes_template.md",
-    "Practice Notes/2026/July/11th Saturday.md",
-    "Practice Notes/2026/July/10th Friday.md",
+    "Characters/Chun-Li/Combos.md",
+    "Characters/Chun-Li/Gameplan.md",
+    "Characters/Cammy/Gameplan.md",
+    "Characters/Cammy/Combos.md",
+    "Characters/Cammy/Lessons/Lessons Checklist.md",
+    "Game Knowledge/Drive System.md",
+    "Characters/Cammy/Lessons/Lesson 3 - Drive Rush & DR Combos.md",
+    "Characters/Cammy/Lessons/Lesson 4 - Situational Combos.md",
+    "Characters/Cammy/Lessons/Lesson 5 - Whiff Punish & Counter Poke.md",
+    "Characters/Cammy/Lessons/Lesson 7 - Advanced Cammy Tech.md",
+    "Characters/Cammy/Lessons/Lesson 2 - Simple Gameplan.md",
+    "Characters/Cammy/Lessons/Lesson 1 - Basics.md",
+    "Characters/Cammy/Lessons/Lesson 6 - Advanced Knockdown.md",
+    "Game Knowledge",
+    "Health/Warm Ups.md",
+    "Health/Stretches.md",
+    "Health/Excercises.md",
+    "Health",
+    "Characters",
+    "Characters/Chun-Li",
     "Reference.md",
-    "Combos.md",
-    "Current Gameplan.md",
+    "Practice Notes/2026/July/13th Monday.md",
+    "Characters/Cammy",
+    "Practice Notes/2026/July/11th Saturday.md",
+    "res/templates/daily_notes_template.md",
+    "Practice Notes/2026/July/10th Friday.md",
     "Untitled.md",
-    "Lessons/Lessons Checklist.md",
     "Untitled.base",
     "Idk what a base is.base",
-    "Lessons/Lesson 4 - Situational Combos.md",
-    "Lessons/Lesson 3 - Drive Rush & DR Combos.md",
     "Practice Notes/2026/July/Untitled.base",
     "Practice Notes/2026/Jul/10th Friday.md",
     "Practice Notes/2026/July",
-    "Lessons/Lesson 7 - Advanced Cammy Tech.md",
-    "Lessons/Lesson 6 - Advanced Knockdown.md",
-    "Lessons/Lesson 5 - Whiff Punish & Counter Poke.md",
-    "Lessons/Lesson 3.5 - More Drive System Mechanics.md",
-    "Lessons/Lesson 2 - Simple Gameplan.md",
-    "Lessons/Lesson 1 - Basics.md",
     "Practice Notes/2026/Jul",
-    "Practice Notes/2026",
-    "Practice Notes",
-    "res/templates",
-    "res",
     "2026-07-10.md",
     "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
-    "Lessons/Lesson 5 - Combos into Super.md",
-    "Lessons/Lesson 4 - Corner Combos.md",
-    "Lessons/Lesson 3 - Drive Rush & DR Combos.docx",
-    "combos/2LK - Low Confirm.md",
-    "combos/j.HP - Meter Dump.md",
-    "combos/j.214K - DR Side Switch.md",
-    "combos/CH 5MP - Corner Loop.md",
-    "combos/CH 5MP - BnB Shimmy.md",
     "test.canvas"
   ]
 }

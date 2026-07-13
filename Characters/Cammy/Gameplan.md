@@ -8,7 +8,7 @@ The current gampeplan is still a simple strike-throw while opting for corner car
 
 ## Offense
 
-![[Combos#Current Combos]]
+![[Characters/Cammy/Combos#Current Combos]]
 
 ### Poke
 

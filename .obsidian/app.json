@@ -1,8 +1,8 @@
 {
   "alwaysUpdateLinks": true,
   "showLineNumber": false,
-  "spellcheck": false,
-  "vimMode": false,
+  "spellcheck": true,
+  "vimMode": true,
   "openBehavior": "daily",
   "newFileLocation": "current",
   "showInlineTitle": false,

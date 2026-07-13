@@ -14,6 +14,6 @@ cc_profile: trd
 
 # Educational Playlist
 
-Here are most of the videos I have used to learn SF6/Cammy
+Here are most of the videos I have used to learn SF6
 
 https://www.youtube.com/playlist?list=PLa1oXX8ShX6s
