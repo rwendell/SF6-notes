@@ -4,22 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "d296b868af7e1909",
+        "id": "3b95ba6ad4bc481b",
         "type": "tabs",
         "children": [
           {
-            "id": "d848457313a3001b",
+            "id": "f3be6c165d62a1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Chun-Li/Gameplan.md",
+                "file": "Characters/Chun-Li/Reference.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Gameplan"
+              "title": "Reference"
             }
           }
         ]
@@ -75,8 +75,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -188,20 +187,25 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7220222b14c95ac2",
+  "active": "f3be6c165d62a1a8",
   "lastOpenFiles": [
-    "Characters/Chun-Li/Combos.md",
-    "Characters/Chun-Li/Gameplan.md",
-    "Characters/Cammy/Gameplan.md",
+    "Characters/Cammy/Reference.md",
     "Characters/Cammy/Combos.md",
+    "Reference.md",
+    "Characters/Chun-Li/Reference.md",
+    "Characters/Cammy/Lessons/Lesson 1 - Basics.md",
+    "Characters/Cammy/Lessons/Lesson 2 - Simple Gameplan.md",
+    "Characters/Chun-Li/Lessons/1. Basics.md",
+    "Characters/Chun-Li/Gameplan.md",
+    "Characters/Chun-Li/Lessons",
+    "Characters/Chun-Li/Combos.md",
+    "Characters/Cammy/Gameplan.md",
     "Characters/Cammy/Lessons/Lessons Checklist.md",
     "Game Knowledge/Drive System.md",
     "Characters/Cammy/Lessons/Lesson 3 - Drive Rush & DR Combos.md",
     "Characters/Cammy/Lessons/Lesson 4 - Situational Combos.md",
     "Characters/Cammy/Lessons/Lesson 5 - Whiff Punish & Counter Poke.md",
     "Characters/Cammy/Lessons/Lesson 7 - Advanced Cammy Tech.md",
-    "Characters/Cammy/Lessons/Lesson 2 - Simple Gameplan.md",
-    "Characters/Cammy/Lessons/Lesson 1 - Basics.md",
     "Characters/Cammy/Lessons/Lesson 6 - Advanced Knockdown.md",
     "Game Knowledge",
     "Health/Warm Ups.md",
@@ -210,7 +214,6 @@
     "Health",
     "Characters",
     "Characters/Chun-Li",
-    "Reference.md",
     "Practice Notes/2026/July/13th Monday.md",
     "Characters/Cammy",
     "Practice Notes/2026/July/11th Saturday.md",
@@ -222,9 +225,6 @@
     "Practice Notes/2026/July/Untitled.base",
     "Practice Notes/2026/Jul/10th Friday.md",
     "Practice Notes/2026/July",
-    "Practice Notes/2026/Jul",
-    "2026-07-10.md",
-    "Lessons/Lesson 6 - Whiff Punish & Counter Poke.md",
     "test.canvas"
   ]
 }
