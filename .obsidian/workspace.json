@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Characters/Chun-Li/Lessons/1. Basics.md",
+                "file": "Practice Notes/2026/July/16th Thursday.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "1. Basics"
+              "title": "16th Thursday"
             }
           }
         ]
@@ -79,8 +79,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 346.5,
-    "collapsed": true
+    "width": 346.5
   },
   "right": {
     "id": "6712a51a37f87da3",
@@ -190,13 +189,14 @@
   },
   "active": "f3be6c165d62a1a8",
   "lastOpenFiles": [
+    "Characters/Chun-Li/Lessons/1. Basics.md",
+    "Practice Notes/2026/July/16th Thursday.md",
     "Characters/Chun-Li/Reference.md",
     "Characters/Cammy/Reference.md",
     "Characters/Cammy/Combos.md",
     "Reference.md",
     "Characters/Cammy/Lessons/Lesson 1 - Basics.md",
     "Characters/Cammy/Lessons/Lesson 2 - Simple Gameplan.md",
-    "Characters/Chun-Li/Lessons/1. Basics.md",
     "Characters/Chun-Li/Gameplan.md",
     "Characters/Chun-Li/Lessons",
     "Characters/Chun-Li/Combos.md",
@@ -224,7 +224,6 @@
     "Untitled.base",
     "Idk what a base is.base",
     "Practice Notes/2026/July/Untitled.base",
-    "Practice Notes/2026/Jul/10th Friday.md",
     "Practice Notes/2026/July",
     "test.canvas"
   ]
